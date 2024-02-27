@@ -1,0 +1,26 @@
+body{
+    font-family: 'Garamound', serif;
+    font-size: 1rem;
+}
+.list{
+    background-color:rgba(255, 160, 77, 0.569);
+    padding:2rem;
+}
+ul{
+    list-style: circle;
+}
+li{
+    padding: 1rem;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3rem;
+    text-align: center;
+}
+a{
+    text-decoration: nones;
+    padding: 1rem;
+}
+a:hover{
+    background-color: rgba(255, 89, 77, 0.569);
+}
